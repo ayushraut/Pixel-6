@@ -1,0 +1,111 @@
+body{
+    box-shadow: 10px 10px 20px black;
+    border-radius: 10px;
+    height: 710px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+h1{
+    text-align: center;
+}
+
+hr{
+    width: 80%;
+}
+
+label{
+    font-weight: bold;
+}
+
+form{
+
+    width: 80%;
+    /* box-shadow: 10px 10px 20px black;
+    border-radius: 10px; */
+    margin-left: 150px;
+}
+
+input{
+    width: 20%;
+    padding: 10px;
+    border-radius: 10px ;
+}
+
+select{
+    width: 7%;
+    padding: 10px;
+    border-radius: 10px ;
+}
+
+.pan{
+    text-transform: uppercase;
+}
+
+.email{
+    text-transform: lowercase;
+}
+
+.cp{
+
+    width: 10%;
+    padding: 10px;
+    border-radius: 10p
+
+}
+
+.submitbtn{
+    cursor: pointer;
+    border: none;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    width: 100px;
+    padding: 10px;
+}
+
+.verifybtn{
+    cursor: pointer;
+    width: 70px;
+
+
+}
+.td{
+
+    text-align: center;
+    margin: 50px;
+    font-size: 30px;
+}
+
+.n1{
+    width: 35%;
+}
+
+a{
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    margin: 10px;
+    background-color: brown;
+    color:rgb(255, 255, 255);
+}
+
+.h1body h1{
+
+    padding-top: 100px;
+
+
+}
+
+.text{
+    text-transform: uppercase;
+}
+
+#p1{
+
+    margin-left: 80px;
+}
+
+#p5{
+    margin-left: 70px;
+}
